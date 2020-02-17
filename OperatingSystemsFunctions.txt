@@ -1,1 +1,2 @@
 Window controls the hardware inside of your computer. The operating system has a function that allows you to shut off the device from the interface.
+The MAC OS a has a feautre that allows the user to sync other apple devices to the MAC operating system using the feature called iCloud. iCloud syncs the devices conncected to the MAC for ease of use. 
